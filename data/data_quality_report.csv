@@ -1,0 +1,9 @@
+Quality_Check,Result
+Unique appointment IDs,PASS
+No duplicate rows,PASS
+Valid known ages,PASS
+Valid known distances,PASS
+No negative lead times,PASS
+Standardized booking channels,PASS
+All clinics matched,PASS
+All unique appointments retained,PASS
